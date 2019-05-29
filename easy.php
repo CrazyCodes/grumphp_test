@@ -4,6 +4,5 @@
      *  Github: CrazyCodes <https://github.com/CrazyCodes>
      *  Licensed ( http://www.apache.org/licenses/LICENSE-2.0 )
      */
-    include_once "./vendor/autoload.php";
     
     $a = 1133
